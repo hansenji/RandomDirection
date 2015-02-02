@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="compass_needle" type="drawable">@drawable/ic_launcher</item>
+</resources>
